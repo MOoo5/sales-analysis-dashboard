@@ -80,10 +80,5 @@ The following preprocessing steps were applied:
 
 ---
 
-## Project Preview
-Add dashboard screenshot here.
-
----
-
 ## Author
 Mohamed Elfar
